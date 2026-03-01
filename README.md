@@ -5,6 +5,10 @@ The computer algorithms developed during this study, including those not current
 ### Correlation calculation
 The maximum correlation coefficient was calculated using [correlation.py](src/correlation.py).
 
+### Equipments
+- Thermography: FLIR T530
+- Oscilloscope: RIGOL DS1054Z
+
 ## References
 Scientific Reports 2025 [[Paper](https://doi.org/10.1038/s41598-025-17801-9)]
 ```bibtex
